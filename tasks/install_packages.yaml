@@ -1,0 +1,11 @@
+---
+# Playbook to install required packages for TGN functionality to work
+
+- name: Install python-pip if not already installed
+  package: name=python-pip state=latest
+  become: true
+
+- name: Install pip modules
+  pip:
+    name: scapy
+  become: true
