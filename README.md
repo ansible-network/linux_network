@@ -1,7 +1,9 @@
 Role Name
 =========
 
-This Ansible network role provides functionality to send packets from a host based on an input JSON of packet keys like source ip address , destination ip address etc
+This Ansible network role provides functionality to send packets from a host
+based on an input JSON of packet keys like source ip address, destination ip
+address etc.
 
 Requirements
 ------------
