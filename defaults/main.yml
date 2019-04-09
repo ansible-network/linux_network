@@ -1,7 +1,0 @@
----
-# defaults file for linux_tgn_role
-
-#tgn_flows_filepath: 'example_packet_dict.json'
-#tgn_out_port: 'enp0s16'
-#tgn_l3_gateway: '12.1.1.21'
-#tgn_wildcard_dest: '20.20.20.20'
